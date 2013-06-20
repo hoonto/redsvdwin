@@ -1,7 +1,11 @@
-resvdwin
+redsvdwin
 ========
 
 Quick little port of redsvd to windows 7 with Visual Studio 2010.  Not a supported build by the redsvd folks, but interesting nonetheless I think.
+
+Original redsvd:
+
+https://code.google.com/p/redsvd/
 
 In response to:
 
